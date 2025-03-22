@@ -1,0 +1,7 @@
+Feature and hyperparameter selection together
+
+Typically, when using genetic search algorithms, I see either feature selection or hyperparameter search for predictive models. 
+In the code provided I have implemented everything together. A dataset formed from stock quotes is used (you can use your own).
+The result is lists with the best set of features and model hyperparameters(classification is used).
+
+Link to code with data in the attached PDF.
